@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Caioxz/Caioxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://user-images.githubusercontent.com/112172836/200602474-be6c2e10-dc0e-4aa0-a7c6-45f6dd049fc5.gif">
