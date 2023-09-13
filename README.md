@@ -1,15 +1,15 @@
 ### Prazer!! Me chamo Sluckszz😀👍
 
 
- Estudo Desenvolvimento de Sistemas. <img  height="30" width="30" src="https://media.tenor.com/QefYuXKmoBoAAAAi/sonic-sonic-the-hedgehog.gif">
+ Estudo Desenvolvimento de Sistemas. <img style ="margin-top: -400"   height="30" width="40" src="https://tenor.com/pt-BR/view/anime-dance-anime-dance-anime-dance-gif-dance-anime-gif-gif-26157981.gif">
 
 <hr>
 
 <p style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img height="200" width="349" src="https://media.tenor.com/gncfM7GPwgEAAAAi/shaggy.gif"> <br> <br>
+  <img  style ="margin-left: 500"  height="200" width="350" src="https://pa1.aminoapps.com/8053/cc0089b1fe28e15d421e5887dd074228b00045e6r1-640-359_hq.gif"> <br> <br>
   <img heigh="200" width="339"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30">
-   <img  height="124" width="124" src="https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif">
+
 </p>
 </div>
 
@@ -27,7 +27,7 @@
 </div>
 
 ## 
-Minhas redes sociais
+Minha rede social
 ##
 <div>
     <a href="https://instagram.com/_.caioxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
