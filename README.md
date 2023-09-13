@@ -12,7 +12,9 @@
 
 </p>
 </div>
-
+<p>
+  <img src="https://streak-stats.demolab.com?user=Caioxz&theme=react&hide_border=true&border_radius=15">
+</p>
 <hr>
 
 ## Linguagens que estou aprendendo
@@ -25,6 +27,7 @@
   <img align="center" alt="Caioxz-sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Caioxz-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
+
 
 ## 
 Minha rede social
