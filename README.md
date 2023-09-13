@@ -12,8 +12,10 @@
 
 </p>
 </div>
+
 <p>
   <img src="https://streak-stats.demolab.com?user=Caioxz&theme=react&hide_border=true&border_radius=15">
+  <img style ="display: inline-block"  height="200" width="350" src="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-dancando-26.gif">
 </p>
 <hr>
 
