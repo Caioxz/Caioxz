@@ -28,6 +28,7 @@
   <img align="center" alt="Caioxz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Caioxz-sqlServer" height="30" width="40" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
   <img align="center" alt="Caioxz-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="Caioxz-PY" height="35" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg">
 </div>
 
 
