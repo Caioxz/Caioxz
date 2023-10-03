@@ -7,7 +7,7 @@
 
 <p style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img  style ="margin-left: 520"  height="200" width="350" src="https://pa1.aminoapps.com/8053/cc0089b1fe28e15d421e5887dd074228b00045e6r1-640-359_hq.gif"> <br> <br>
+  <img  style ="margin-left: 520"  height="200" width="350" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif"> <br> <br>
   <img heigh="200" width="339"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30">
 
 </p>
