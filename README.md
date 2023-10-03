@@ -40,6 +40,10 @@
 
 
 
+![snake gif](https://github.com/Caioxz/Caioxz/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
