@@ -25,7 +25,7 @@
 <p align="center">
 <img  width="480" src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula"  />
   <img  width="250"  align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&theme=dracula"/>
-  <img height="200 width="200" align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />
+ <!-- <img height="200 width="200" align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />-->
 </p>
 
 
