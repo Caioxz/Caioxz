@@ -11,7 +11,7 @@
 <p style="display: inline-block">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula&locale=en"  />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Caioxz&show_icons=true&,fffefe,41b8&theme=dracula" />
+  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&theme=dracula"/>
 </p>
   
 
