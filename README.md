@@ -9,16 +9,17 @@
 
 
 <p style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img  style ="margin-left: 520"  height="200" width="350" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif"> <br> <br>
-  <img heigh="200" width="339"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abuhabban&show_icons=true&theme=vue&locale=en" alt="abuhabban" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abuhabban&show_icons=true&bg_color=30,fffefe,41b883&theme=gruvbox_light&locale=en&langs_count=10&layout=compact" alt="abuhabban" />
+</p>
+  
+
 
 </p>
 </div>
 
-<p>
-  <img  style =" display: inline-block"  src="https://streak-stats.demolab.com?user=Caioxz&theme=react&hide_border=true&border_radius=15">
-</p>
+
 <hr>
 
 ## Linguagens que estou aprendendo
