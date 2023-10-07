@@ -12,10 +12,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula&locale=en"  />
   <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&theme=dracula"/>
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />
+ 
 </p>
   
-
+ <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />
 
 </p>
 </div>
