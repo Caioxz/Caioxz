@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi, I'm Sluckszz</h1>
 
-<!--width="220"
- width="290"-->
+
  
 <div>
   <img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caioxz?cardType=github&Background=0D1117&Text=FFFFFF&Title=9C55DF&Border=C77DFF&icon=f8d846&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
