@@ -1,6 +1,5 @@
-![banner-github](https://user-images.githubusercontent.com/105254225/202921562-2bec4743-467c-486b-9290-50e22ac31892.gif)
 
-<h2 align='center'> Hi, I'm sluckszz</h2>
+
 
 
 
