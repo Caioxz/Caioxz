@@ -1,5 +1,6 @@
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Caioxz" style="width:30%;height:60%;"/>
+</p>
 
 
 
@@ -22,8 +23,8 @@
 <h1>Stats</h1>
 <p style="display: inline-block">
 <p align="center">
-<img  width="480" src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula"  />
-  <img  width="250"  align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&theme=dracula"/>
+<img  width="330" src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula"  />
+<img  width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caioxz&show_icons=true&theme=dracula&locale=en&langs_count=10&layout=compact"/>
  <!-- <img height="200 width="200" align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />-->
 </p>
 
