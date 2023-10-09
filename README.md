@@ -5,8 +5,9 @@
  width="290"-->
  
 <div>
-  <img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/valeskamdev?cardType=github&Background=0D1117&Text=FFFFFF&Title=9C55DF&Border=C77DFF&icon=f8d846&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caioxz?cardType=github&Background=0D1117&Text=FFFFFF&Title=9C55DF&Border=C77DFF&icon=f8d846&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
+ 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" width="400" height="320" />
