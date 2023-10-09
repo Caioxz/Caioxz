@@ -1,8 +1,10 @@
+
+<p style="display: inline-block">
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Caioxz" style="width:30%;height:60%;"/>
+<img  width="330" src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula"  />
+<img  width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caioxz&show_icons=true&theme=dracula&locale=en&langs_count=10&layout=compact"/>
+ <img  width="235" align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />
 </p>
-
-
 
 <div style="display: inline-block">
   <!--<img align="center" alt="Caioxz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
@@ -15,18 +17,18 @@
 </div>
 <br><br>
 <div>
-    <a href="https://instagram.com/_.caioxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_.caioxz" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 
 </div>
 
 
-<h1>Stats</h1>
-<p style="display: inline-block">
+
 <p align="center">
-<img  width="330" src="https://github-readme-stats.vercel.app/api?username=Caioxz&show_icons=true&theme=dracula"  />
-<img  width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caioxz&show_icons=true&theme=dracula&locale=en&langs_count=10&layout=compact"/>
- <!-- <img height="200 width="200" align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caioxz&theme=dracula" />-->
+<img src="https://komarev.com/ghpvc/?username=Caioxz" style="width:30%;height:60%;"/>
 </p>
+
 
 
 <!--![snake gif](https://github.com/Caioxz/Caioxz/blob/output/github-contribution-grid-snake.svg)-->
