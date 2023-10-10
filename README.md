@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" width="400" height="320" />
 
 
-### 🎮 I love playing video games
+### <h3>🎮 I love playing video games</h3>
 ### 👨🏼‍💻 I like studying programming
 ### ☄️ I really like messing around on github
 ### 🔥 my current favorite language is python
