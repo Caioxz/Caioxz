@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" width="900" height="720" />
 
 
- #####
+ 
 <div top="30%">
   <img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caioxz?cardType=github&Background=0D1117&Text=FFFFFF&Title=9C55DF&Border=C77DFF&icon=f8d846&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
  
