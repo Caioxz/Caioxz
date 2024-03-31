@@ -1,4 +1,4 @@
-### *Me chamo Caio,* 
+### *Me chamo Caio* 
 ### *Estou no 3º ano cursando Desenvolvimento de Sistemas na Etec de Guaianases*
 --------------------------------------
 ### **Infos:**
