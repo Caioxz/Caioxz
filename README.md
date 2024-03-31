@@ -1,8 +1,8 @@
 
 
 <div style="display: flex; justify-content: space-evenly; margin-top: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&theme=github_dark" height="200" />
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&theme=github_dark" height="150" />
+    <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&theme=github_dark" />
 </div>
 
 
