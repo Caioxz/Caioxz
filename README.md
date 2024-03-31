@@ -1,6 +1,6 @@
 </div>
 
-<img align="right" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/002/800/650/original/fernando-henrique-8cee0835620155-5703b32598a54.gif?1465862335" width="990" height="720" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*x1VVkQ2Ef2nPoHcSVRQQag.gif" width="1090" height="820" />
 
 
  
