@@ -1,6 +1,6 @@
 </div>
 
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*x1VVkQ2Ef2nPoHcSVRQQag.gif" width="1090" height="820" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*x1VVkQ2Ef2nPoHcSVRQQag.gif" width="1090" height="420" />
 
 
  
