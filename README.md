@@ -16,14 +16,8 @@
 
 
 
-### Skills :
-<div style="display: inline-block">
-
-  <img align="center" alt="Caioxz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caioxz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caioxz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Caioxz-PY" height="30" width="36" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg">
-</div>
+### **Languages and Tools:**  
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react)](#)
 
 
 
