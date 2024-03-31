@@ -1,10 +1,20 @@
+### *Me chamo Caio,* 
+### *Estou no 3º ano cursando Desenvolvimento de Sistemas na Etec de Guaianases*
+--------------------------------------
+### **Infos:**
+- Sou desenvolvedor Front-End
+- Atualmente me aprofundando em React e TailWind CSS
 
-
+### **Redes Sociais:**
+- *Discord: Sluckszz.*
+- *Instagram: https://www.instagram.com/_.caioxz/*
+-------------------------------------------------
+### **Estatisticas:**
 <div style="display: flex; justify-content: space-evenly; margin-top: 200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Caioxz&theme=github_dark" height="150" />
     <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioxz&layout=compact&theme=github_dark" />
 </div>
 
 
-### **Languages and Tools:**  
+### **Linguagens:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react)](#)
