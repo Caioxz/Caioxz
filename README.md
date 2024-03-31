@@ -1,9 +1,9 @@
-### *Me chamo Caio* 
-### *Estou no 3º ano cursando Desenvolvimento de Sistemas na Etec de Guaianases*
+### *Ola me chamo Caio!!* 
 --------------------------------------
 ### **Infos:**
 - Sou desenvolvedor Front-End
 - Atualmente me aprofundando em React e TailWind CSS
+- Estou Cursando Desenvolvimento de Sistemas na [ETEC de Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/)
 
 ### **Redes Sociais:**
 - *Discord: Sluckszz.*
