@@ -1,4 +1,4 @@
-### *Ola me chamo Caio!!* 
+### *Ola, me chamo Caio!!* 
 --------------------------------------
 ### **Infos:**
 - Sou desenvolvedor Front-End
